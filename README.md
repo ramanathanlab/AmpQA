@@ -11,8 +11,8 @@ This script is designed to generate question-and-answer (QA) datasets for Antimi
 
 Ensure you have the following installed:
 - Python 3.7 or higher
-- `torch`
-- `transformers`
+- torch
+- transformers
 
 This script is tested on Linux and Windows operating systems.
 
